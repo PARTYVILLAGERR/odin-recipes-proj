@@ -1,2 +1,2 @@
 # odin-recipes-proj
-recipes web page
+This is a web page for recipes for the odin project
